@@ -5,4 +5,4 @@ This is a fun school math project that I made for vector analysis applications. 
 
 To run this game, you need to download unity and start a new project. Download all the prefabs, sprites, and scenes. Dont forget to copy my "physics" and "scripts" code too!
 
-Your own personal touches is ofcourse needed to make the map and terrain itself =)
+Your own personal touches is ofcourse needed to make the map and terrain itself 😀
